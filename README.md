@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## To-Do List App
+
+This is a Next.js project for a To-Do List application with features including reminders, checklists, and user authentication (login/sign up). The project was bootstrapped with create-next-app.
+
+## Features
+
+- Reminder: Set reminders for tasks to stay on top of deadlines.
+- Checklist: Create and manage checklists to track your progress.
+- Update and Delete List: Easily update or delete tasks and lists as needed.
+- Login/Sign Up: Secure user authentication to manage personal task lists.
 
 ## Getting Started
 
