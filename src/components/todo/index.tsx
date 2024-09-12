@@ -1,3 +1,4 @@
+"use client";
 import { useTheme } from "@/context/theme";
 import { formatDateForDisplay } from "@/helper/utils";
 import { TUser, Todo as TodoType } from "@/type/user";
